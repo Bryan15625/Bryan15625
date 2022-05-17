@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bryan Huang
-- 👀 I’m interested in expanding my software knowledge
+- 👀 I’m interested in expanding my software and hardware knowledge
 - 📫 How to reach me - email: b74huang@uwaterloo.ca 
 
 <!---
